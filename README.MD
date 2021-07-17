@@ -2,11 +2,12 @@
 Reliable UDP with Selective Repeat implementation,for CS F303 Computer Networks
 
 ## Group:  
+Kshitij Verma - 2017B1A71145H 
 Keshav Beriwal - 2017B4A71301H  
 Aman Badjate - 2017B3A70559H  
-Prakhar Suryavansh  - 2017B4A71017H  
+Prakhar Suryavansh - 2017B4A71017H  
 Garvit Soni - 2017B3A70458H 
-Kshitij Verma - 2017B1A71145H 
+
 
 # How to compile:
 For compiling server, type the command `gcc -pthread -o server server.c`
